@@ -1,0 +1,15 @@
+C:\Users\Resende\Documents\Faculdade\ex12\ex12\bin\Debug\net7.0\ex12.exe
+C:\Users\Resende\Documents\Faculdade\ex12\ex12\bin\Debug\net7.0\ex12.deps.json
+C:\Users\Resende\Documents\Faculdade\ex12\ex12\bin\Debug\net7.0\ex12.runtimeconfig.json
+C:\Users\Resende\Documents\Faculdade\ex12\ex12\bin\Debug\net7.0\ex12.dll
+C:\Users\Resende\Documents\Faculdade\ex12\ex12\bin\Debug\net7.0\ex12.pdb
+C:\Users\Resende\Documents\Faculdade\ex12\ex12\obj\Debug\net7.0\ex12.csproj.AssemblyReference.cache
+C:\Users\Resende\Documents\Faculdade\ex12\ex12\obj\Debug\net7.0\ex12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resende\Documents\Faculdade\ex12\ex12\obj\Debug\net7.0\ex12.AssemblyInfoInputs.cache
+C:\Users\Resende\Documents\Faculdade\ex12\ex12\obj\Debug\net7.0\ex12.AssemblyInfo.cs
+C:\Users\Resende\Documents\Faculdade\ex12\ex12\obj\Debug\net7.0\ex12.csproj.CoreCompileInputs.cache
+C:\Users\Resende\Documents\Faculdade\ex12\ex12\obj\Debug\net7.0\ex12.dll
+C:\Users\Resende\Documents\Faculdade\ex12\ex12\obj\Debug\net7.0\refint\ex12.dll
+C:\Users\Resende\Documents\Faculdade\ex12\ex12\obj\Debug\net7.0\ex12.pdb
+C:\Users\Resende\Documents\Faculdade\ex12\ex12\obj\Debug\net7.0\ex12.genruntimeconfig.cache
+C:\Users\Resende\Documents\Faculdade\ex12\ex12\obj\Debug\net7.0\ref\ex12.dll

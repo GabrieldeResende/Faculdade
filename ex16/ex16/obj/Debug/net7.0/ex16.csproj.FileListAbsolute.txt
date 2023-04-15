@@ -1,0 +1,15 @@
+C:\Users\Resende\Documents\Faculdade\ex16\ex16\bin\Debug\net7.0\ex16.exe
+C:\Users\Resende\Documents\Faculdade\ex16\ex16\bin\Debug\net7.0\ex16.deps.json
+C:\Users\Resende\Documents\Faculdade\ex16\ex16\bin\Debug\net7.0\ex16.runtimeconfig.json
+C:\Users\Resende\Documents\Faculdade\ex16\ex16\bin\Debug\net7.0\ex16.dll
+C:\Users\Resende\Documents\Faculdade\ex16\ex16\bin\Debug\net7.0\ex16.pdb
+C:\Users\Resende\Documents\Faculdade\ex16\ex16\obj\Debug\net7.0\ex16.csproj.AssemblyReference.cache
+C:\Users\Resende\Documents\Faculdade\ex16\ex16\obj\Debug\net7.0\ex16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resende\Documents\Faculdade\ex16\ex16\obj\Debug\net7.0\ex16.AssemblyInfoInputs.cache
+C:\Users\Resende\Documents\Faculdade\ex16\ex16\obj\Debug\net7.0\ex16.AssemblyInfo.cs
+C:\Users\Resende\Documents\Faculdade\ex16\ex16\obj\Debug\net7.0\ex16.csproj.CoreCompileInputs.cache
+C:\Users\Resende\Documents\Faculdade\ex16\ex16\obj\Debug\net7.0\ex16.dll
+C:\Users\Resende\Documents\Faculdade\ex16\ex16\obj\Debug\net7.0\refint\ex16.dll
+C:\Users\Resende\Documents\Faculdade\ex16\ex16\obj\Debug\net7.0\ex16.pdb
+C:\Users\Resende\Documents\Faculdade\ex16\ex16\obj\Debug\net7.0\ex16.genruntimeconfig.cache
+C:\Users\Resende\Documents\Faculdade\ex16\ex16\obj\Debug\net7.0\ref\ex16.dll
